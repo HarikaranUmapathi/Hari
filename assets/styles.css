@@ -1,7 +1,0 @@
-/* ===================== assets/styles.css ===================== */
-body{ font-family: Arial, Helvetica, sans-serif; margin:0; padding:0; }
-.container{ max-width:420px; margin:48px auto; padding:16px; border:1px solid #ddd; border-radius:8px; }
-nav{ display:flex; justify-content:space-between; padding:12px; background:#f7f7f7; }
-table{ width:100%; border-collapse:collapse; }
-td,th{ padding:8px; border:1px solid #eee; }
-.error{ color:red; }
